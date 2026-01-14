@@ -1,4 +1,5 @@
 # hackerrank-python-solutions
+Daily practice update
 This repository reflects my learning journey in Python. All solutions are written and tested locally before being committed.
 This repository contains my Python solutions to HackerRank problems.
 It is intended to practice Python fundamentals, improve logical thinking,
